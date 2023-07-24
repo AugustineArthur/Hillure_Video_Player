@@ -1,0 +1,2 @@
+rootProject.name = "Hillure Video Player"
+include ':app'
