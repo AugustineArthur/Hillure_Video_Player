@@ -1,6 +1,6 @@
 # Hillure Video Player for Android
  ![App Icon](https://github.com/me50/AugustineArthur/blob/cs50/problems/2022/x/project/20220329_105742.png)
-#### Watch Video Demo of the app: [Here](https://www.youtube.com/watch?v=oEkov5x229E&t=11s)
+#### Watch Video Demo of the app: [Here](https://www.youtube.com/watch?v=oEkov5x229E)
 ## Description
  This app supports or runs most mp4 files on android devices.
  It has a very simple user-friendly UI(the most basic form) that even people who are not
